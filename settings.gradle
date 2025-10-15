@@ -8,6 +8,13 @@ pluginManagement {
         maven {
             url = 'https://maven.parchmentmc.org'
         }
+        maven {
+            url = 'https://repo.spongepowered.org/repository/maven-public/'
+        }
+        maven {
+            name = 'Changed'
+            url = 'https://raw.githubusercontent.com/LtxProgrammer/Changed-Minecraft-Mod/1.18.2-rel/mcmodsrepo/'
+        }
     }
 }
 

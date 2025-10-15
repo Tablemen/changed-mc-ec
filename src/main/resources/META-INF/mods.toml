@@ -65,3 +65,9 @@ mandatory=true
 versionRange="${minecraft_version_range}"
 ordering="NONE"
 side="BOTH"
+[[dependencies.${mod_id}]]
+modId="changed"
+mandatory=true
+versionRange="[0.14.1c]" # Replace with the version you plan to mod
+ordering="NONE"
+side="BOTH"
