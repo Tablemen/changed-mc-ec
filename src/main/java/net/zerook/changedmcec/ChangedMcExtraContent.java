@@ -26,6 +26,7 @@ public class ChangedMcExtraContent
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 
+    //added a comment
     public ChangedMcExtraContent()
     {
         // Register the setup method for modloading
